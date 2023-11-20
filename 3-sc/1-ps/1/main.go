@@ -2,13 +2,7 @@ package main
 
 import "fmt"
 
-var x = 42
-
-func main(){
-	fmt.Println(x)
-	test()
-}
-
-func test(){
+func main() {
+	var x int = 50
 	fmt.Println(x)
 }
