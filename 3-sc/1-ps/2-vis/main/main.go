@@ -1,11 +1,11 @@
 package main
 
 import (
-	"example/test/vis"
+	// "example/test/vis"
 	"fmt"
 )
 
 func main() {
 	fmt.Println()
-	vis.PrintVar()
+	// vis.PrintVar()
 }
